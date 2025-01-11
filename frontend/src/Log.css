@@ -1,0 +1,14 @@
+.log {
+  background-image: url(resources/image2.jpg);
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 15px;
+  color: rgb(172, 9, 9);
+  border: 5px rgb(32, 85, 109) solid;
+  width: 100%;
+}
+
+.details {
+  margin-left: 10px;
+  padding: 10px;
+}

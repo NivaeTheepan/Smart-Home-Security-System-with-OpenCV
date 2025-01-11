@@ -1,0 +1,35 @@
+.details-page {
+  background-image: url(resources/image1.jpg);
+  color: beige;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 13%;
+}
+
+.details-header {
+  display: flex;
+}
+
+.player {
+  border: 6px black solid;
+}
+
+.back-btn {
+  position: absolute;
+  left: 47%;
+  top: 80%;
+  margin: 20px 0 15px;
+  width: 5%;
+  height: 40px;
+  background: rgb(16, 62, 131);
+  border: none;
+  outline: none;
+  border-radius: 40px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+  cursor: pointer;
+  font-size: 16px;
+  color: #dadada;
+  font-weight: 600;
+}

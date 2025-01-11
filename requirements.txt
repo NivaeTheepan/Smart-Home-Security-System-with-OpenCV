@@ -1,0 +1,10 @@
+Flask
+requests
+google-cloud-storage
+opencv-python
+numpy
+ffmpeg
+ffmpeg-python
+twilio
+python-dotenv
+Flask-CORS
